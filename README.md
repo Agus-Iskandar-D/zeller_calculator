@@ -15,7 +15,7 @@ Zeller's congruence is actually an algorithm devised by Christian Zeller in the 
 
 ![usecase diagram](https://github.com/Agus-Iskandar-D/zeller_calculator/blob/main/Usecase%20diagram.png)
 
-![activity diagram](https://github.com/Agus-Iskandar-D/zeller_calculator/blob/main/Activity%20diagram.png)
+![activity diagram](https://github.com/Agus-Iskandar-D/zeller_calculator/blob/main/Activity%20diagram%20fix.png)
 
 Now, Let's roll the drum to code!
 I devide every requarement into function
@@ -38,7 +38,7 @@ Here is the code:
 
 ![Zeller](https://github.com/Agus-Iskandar-D/zeller_calculator/blob/main/zeller's%20congruense.png)
 
-### Last but not least, I call all the function as the main program
+### Last but not least, I call all the functions as the main program
 
 ![progam](https://github.com/Agus-Iskandar-D/zeller_calculator/blob/main/main%20program.png)
 
