@@ -1,7 +1,8 @@
 # zeller_calculator
 Here we go, It is simple command prompt program by using zeller's congruence to know the day of certain date.
 Before taking step further let's take a peek to the Zeller's congruence
-Zeller's congruence is an algorithm devised by Christian Zeller in the 19th century to calculate the day of the week for any Julian or Gregorian calendar date.
+
+Zeller's congruence is actually an algorithm devised by Christian Zeller in the 19th century to calculate the day of the week for any Julian or Gregorian calendar date.
 
 ##Let's get started!
 ###Well here are the requarements:
