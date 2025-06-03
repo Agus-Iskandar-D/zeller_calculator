@@ -19,21 +19,29 @@ Now, Let's roll the drum to code!
 I devide every requarement into function
 
 ###to validate the input number, I use while and if. I also use break to make the iteration focus on each input number
+
 ![input_validation](https://github.com/Agus-Iskandar-D/zeller_calculator/blob/main/input%20validation.png)
+
 ##NOTE:the validation date still validate within 1 and 31 for each month (sorry, I am still newbe tho, next it will be better ;))
 
 ###to identify leap year, I use condtional if with the formula of leap year 
+
 ![leap year](https://github.com/Agus-Iskandar-D/zeller_calculator/blob/main/leap%20year.png)
 
 ##to identify the day, I use conditioal elif because teh condition more than one. and the condition use Zeller's congruence formula:
+
 ![zeller's](https://github.com/Agus-Iskandar-D/zeller_calculator/blob/main/zeller's.png)
+
 Here is the code:
+
 ![Zeller](https://github.com/Agus-Iskandar-D/zeller_calculator/blob/main/zeller's%20congruense.png)
 
 ###Last but not least, I call all the function as the main program
+
 ![progam](https://github.com/Agus-Iskandar-D/zeller_calculator/blob/main/main%20program.png)
 
 ###Voala! here is the output:
+
 ![output](https://github.com/Agus-Iskandar-D/zeller_calculator/blob/main/output.png)
 
 We can identify the day and its kind of year, whether it is leap year or not.
