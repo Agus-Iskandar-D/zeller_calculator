@@ -5,6 +5,7 @@ Before taking step further let's take a peek to the Zeller's congruence
 Zeller's congruence is actually an algorithm devised by Christian Zeller in the 19th century to calculate the day of the week for any Julian or Gregorian calendar date.
 
 ##Let's get started!
+
 ###Well here are the requarements:
 1. The system must be able to validate the input number
 2. The system must be able to identify whetere it is leap year or not, including 2 years before and after the input year
