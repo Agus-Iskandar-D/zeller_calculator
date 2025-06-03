@@ -46,6 +46,8 @@ Here is the code:
 
 ![output](https://github.com/Agus-Iskandar-D/zeller_calculator/blob/main/output.png)
 
-We can identify the day and its kind of year, whether it is leap year or not. Hopefully, it can be my kickstart in coding world and be benificial for others who is learning to code in phyton as me :)
+We can identify the day and its kind of year, whether it is leap year or not. 
+
+So, this is it! Hopefully, it can be my kickstart in coding world and be benificial for others who is learning to code in phyton as me :)
 
 ## See you later, Danke!
